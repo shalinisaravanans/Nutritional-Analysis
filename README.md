@@ -14,6 +14,4 @@ This project focuses on analyzing nutritional data using Microsoft Power BI to e
 - Explore macronutrients and micronutrients.
 - Compare nutritional values.
 - Present insights through interactive visualizations.
-  ## Dashboard Preview
 
-![Nutritional Analysis Dashboard](./Screenshot 2026-11-18 071300.png)
