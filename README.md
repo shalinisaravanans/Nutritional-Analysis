@@ -16,4 +16,4 @@ This project focuses on analyzing nutritional data using Microsoft Power BI to e
 - Present insights through interactive visualizations.
   ## Dashboard Preview
 
-![Nutritional Analysis Dashboard](./Dashboard.png)
+![Nutritional Analysis Dashboard](./Screenshot 2026-11-18 071300.png)
